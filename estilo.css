@@ -1,0 +1,60 @@
+main {
+
+    margin-top: 20px;
+}
+section {
+
+    margin-top: 20px;
+}
+
+footer {
+
+    background-color: #1D3947;
+    color: #ffffff;
+    height: 100px;
+    margin-top: 20px;
+    padding-top: 30px;
+        
+}
+
+.boton-enviar {
+
+    background-color: #96C93E;
+
+}
+
+.container-form {
+
+    margin-top: 20px;
+    max-width: 800px;
+
+}
+
+.logo {
+
+    width: 100px;
+
+}
+
+.color-menu {
+
+    color: #29A63C!important; 
+}
+
+.estilos-bsas {
+
+    background-color: #353A40;
+    color: #ffffff;
+}
+ 
+.texto-carousel {
+
+    position: absolute;
+    top: 50%;
+    padding-right: 100px;
+    color: #ffffff;
+    text-align: right;
+    
+}
+
+ 
